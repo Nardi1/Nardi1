@@ -18,7 +18,7 @@ J'y conçois des sites vitrines, des applications web et des solutions e-commerc
 ## Stack technique
 
 ```
-Frontend   →  React · Next.js 15 · Tailwind · shadcn/ui
+Frontend   →  React · Next.js 16 · Tailwind · shadcn/ui
 WordPress  →  Elementor Pro · JetEngine · ACF · PHP 8+
 Backend    →  Node.js · Prisma · MySQL
 Infra      →  Plesk · VPS OVH · WP-CLI · Redis
