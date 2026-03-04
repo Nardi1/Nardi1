@@ -29,5 +29,5 @@ Outils     →  Cursor · Figma · Git
 
 📍 Toulouse, France  
 🌐 [tm-crea.fr](https://tm-crea.fr)  
-💼 [LinkedIn](https://www.linkedin.com/in/thomas-muller-tmcrea/)  
-✉️ contact@tm-crea.fr
+💼 [LinkedIn](https://www.linkedin.com/in/thomas-muller-850440b0/)  
+✉️ thomas@tm-crea.fr
